@@ -42,14 +42,14 @@ export const PROJECTS = [
     title: "Wheather app",
     image: project2,
     description:
-      "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
-    technologies: ["HTML", "CSS", "Angular", "Firebase"],
+      "A responsive application that provides real-time weather updates, including temperature, humidity, and forecasts for multiple locations, using APIs for accurate data retrieval.",
+    technologies: ["HTML", "CSS", "React", "java script","Boostrap"],
   },
   {
     title: "Portfolio Website",
     image: project3,
     description:
-      "A responsive application that provides real-time weather updates, including temperature, humidity, and forecasts for multiple locations, using APIs for accurate data retrieval",
+      "A responsive and visually appealing portfolio website that showcases a collection of projects and skills, with a focus on interactive design and user-friendly navigation.",
     technologies: ["HTML", "CSS", "React", "Bootstrap"],
   },
   
